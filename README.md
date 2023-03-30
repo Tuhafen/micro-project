@@ -1,2 +1,2 @@
-# microverse-project
+# micro-project
 for test purpose
